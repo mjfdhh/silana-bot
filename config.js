@@ -15,14 +15,14 @@ global.owner = [
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
- packname: 'sticker by ',
- author: 'Noureddine',
- namebot: 'ꜱɪʟᴀɴᴀ',
- wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
+ nomerbot: '212644135508',
+ pairingNumber: '212644135508',
+ nameown: 'بن عدي',
+ nomerown: '212644135508',
+ packname: 'sticker by',
+ author: 'بن عدي',
+ namebot: 'benaddi',
+ wm: ''-'_꩜ ᴮᴱᴺᴬᴰᴰᴵ_ᴮᴼᵀ ࿕ بن عدي 𝘣𝘰𝘵 ꩜_'-'',
  stickpack: 'Whatsapp',
  stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
 }
@@ -51,12 +51,12 @@ global.url = {
  sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
 }
 
-global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
+global.wait =` ᴮᴱᴺᴬᴰᴰᴵ_ᴮᴼᵀ ࿕ انتظر .. أنا أحاول تلبية طلبك ...`
 
 // Info Wait
 global.msg = {
  wait: '⏱️ *Please be patient*\n\> Running command from *User*!',
- eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *Bobiza Bot*. There was an error in the system while executing the command.'
+ eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *ᴮᴱᴺᴬᴰᴰᴵ_ᴮᴼᵀ ࿕*. There was an error in the system while executing the command.'
 }
 
 global.multiplier = 69
