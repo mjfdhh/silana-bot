@@ -9,8 +9,8 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'silana', false],
+['212644135508', '𝑩𝑬𝑵𝑨𝑫𝑫𝑰_𝑩𝑶𝑻 ‌㉨', true],
+['212644135508', '𝑩𝑬𝑵𝑨𝑫𝑫𝑰_𝑩𝑶𝑻 ‌㉨', true],
 ['', '', false]
 ]
 
@@ -23,19 +23,19 @@ global.info = {
  author: 'بن عدي',
  namebot: 'benaddi',
  wm: ''-'_꩜ ᴮᴱᴺᴬᴰᴰᴵ_ᴮᴼᵀ ࿕ بن عدي 𝘣𝘰𝘵 ꩜_'-'',
- stickpack: 'Whatsapp',
- stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
+ stickpack: '𝑩𝑬𝑵𝑨𝑫𝑫𝑰_𝑩𝑶𝑻 ‌㉨',
+ stickauth: '𝑩𝑬𝑵𝑨𝑫𝑫𝑰_𝑩𝑶𝑻 ‌㉨'
 }
 
 // Thumbnail 
 global.media = {
  profil: 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
- did: 'https://telegra.ph/file/fdc1a8b08fe63520f4339.jpg',
- rules: 'https://telegra.ph/file/afcfa712bd09f4fcf027a.jpg',
- thumbnail: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- thumb: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- logo: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- unReg: 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
+ did: 'https://telegra.ph/file/3ca4c1656c27a98157090.jpg',
+ rules: 'https://telegra.ph/file/3ca4c1656c27a98157090.jpg',
+ thumbnail: 'https://telegra.ph/file/3ca4c1656c27a98157090.jpg',
+ thumb: 'https://telegra.ph/file/3ca4c1656c27a98157090.jpg',
+ logo: 'https://telegra.ph/file/3ca4c1656c27a98157090.jpg',
+ unReg: 'https://telegra.ph/file/3ca4c1656c27a98157090.jpg',
  registrasi: 'https://telegra.ph/file/0169f000c9ddc7c3315ff.jpg',
  confess: 'https://telegra.ph/file/03cabea082a122abfa5be.jpg',
  akses: 'https://telegra.ph/file/6c7b9ffbdfb0096e1db3e.jpg', 
@@ -46,12 +46,12 @@ global.media = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sig: '𝑩𝑬𝑵𝑨𝑫𝑫𝑰_𝑩𝑶𝑻 ‌㉨',
+ sgh:  '𝑩𝑬𝑵𝑨𝑫𝑫𝑰_𝑩𝑶𝑻 ‌㉨',
+ sgc: '𝑩𝑬𝑵𝑨𝑫𝑫𝑰_𝑩𝑶𝑻 ‌㉨'
 }
 
-global.wait =` ᴮᴱᴺᴬᴰᴰᴵ_ᴮᴼᵀ ࿕ انتظر .. أنا أحاول تلبية طلبك ...`
+global.wait =`  ..𝑩𝑬𝑵𝑨𝑫𝑫𝑰_𝑩𝑶𝑻 ‌㉨ أنا   ...`
 
 // Info Wait
 global.msg = {
